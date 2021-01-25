@@ -1,4 +1,4 @@
-# Docker compose file for nginx in Windows
+# Docker compose file volume path error for nginx in Windows
 
 When creating a nginx docker image in windows, you may encounter following error due to defining wrong path 
 
